@@ -2,3 +2,12 @@ C:\Users\M.lapena\Documents\exercice2_POO\Exercice3_POO\Exercice3_POO\obj\Debug\
 C:\Users\M.lapena\Documents\exercice2_POO\Exercice3_POO\Exercice3_POO\obj\Debug\netcoreapp3.1\Exercice3_POO.AssemblyInfoInputs.cache
 C:\Users\M.lapena\Documents\exercice2_POO\Exercice3_POO\Exercice3_POO\obj\Debug\netcoreapp3.1\Exercice3_POO.AssemblyInfo.cs
 C:\Users\M.lapena\Documents\exercice2_POO\Exercice3_POO\Exercice3_POO\obj\Debug\netcoreapp3.1\Exercice3_POO.csproj.CoreCompileInputs.cache
+C:\Users\M.lapena\Documents\exercice2_POO\Exercice3_POO\Exercice3_POO\bin\Debug\netcoreapp3.1\Exercice3_POO.exe
+C:\Users\M.lapena\Documents\exercice2_POO\Exercice3_POO\Exercice3_POO\bin\Debug\netcoreapp3.1\Exercice3_POO.deps.json
+C:\Users\M.lapena\Documents\exercice2_POO\Exercice3_POO\Exercice3_POO\bin\Debug\netcoreapp3.1\Exercice3_POO.runtimeconfig.json
+C:\Users\M.lapena\Documents\exercice2_POO\Exercice3_POO\Exercice3_POO\bin\Debug\netcoreapp3.1\Exercice3_POO.runtimeconfig.dev.json
+C:\Users\M.lapena\Documents\exercice2_POO\Exercice3_POO\Exercice3_POO\bin\Debug\netcoreapp3.1\Exercice3_POO.dll
+C:\Users\M.lapena\Documents\exercice2_POO\Exercice3_POO\Exercice3_POO\bin\Debug\netcoreapp3.1\Exercice3_POO.pdb
+C:\Users\M.lapena\Documents\exercice2_POO\Exercice3_POO\Exercice3_POO\obj\Debug\netcoreapp3.1\Exercice3_POO.dll
+C:\Users\M.lapena\Documents\exercice2_POO\Exercice3_POO\Exercice3_POO\obj\Debug\netcoreapp3.1\Exercice3_POO.pdb
+C:\Users\M.lapena\Documents\exercice2_POO\Exercice3_POO\Exercice3_POO\obj\Debug\netcoreapp3.1\Exercice3_POO.genruntimeconfig.cache
