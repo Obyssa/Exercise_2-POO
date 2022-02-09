@@ -6,7 +6,8 @@ namespace Exercice3_POO
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Employe employe = new Employe(int.Parse(Console.ReadLine()), Console.ReadLine(), Console.ReadLine(), Console.ReadLine(), Console.ReadLine(), int.Parse(Console.ReadLine());
+            employe.Age(DateNaissance);
         }
     }
 }

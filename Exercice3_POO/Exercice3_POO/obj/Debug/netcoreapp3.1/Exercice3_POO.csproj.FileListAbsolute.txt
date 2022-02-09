@@ -1,0 +1,4 @@
+C:\Users\M.lapena\Documents\exercice2_POO\Exercice3_POO\Exercice3_POO\obj\Debug\netcoreapp3.1\Exercice3_POO.csproj.AssemblyReference.cache
+C:\Users\M.lapena\Documents\exercice2_POO\Exercice3_POO\Exercice3_POO\obj\Debug\netcoreapp3.1\Exercice3_POO.AssemblyInfoInputs.cache
+C:\Users\M.lapena\Documents\exercice2_POO\Exercice3_POO\Exercice3_POO\obj\Debug\netcoreapp3.1\Exercice3_POO.AssemblyInfo.cs
+C:\Users\M.lapena\Documents\exercice2_POO\Exercice3_POO\Exercice3_POO\obj\Debug\netcoreapp3.1\Exercice3_POO.csproj.CoreCompileInputs.cache
