@@ -12,7 +12,9 @@ namespace classe_exo2
 
             Console.WriteLine(livre.Afficher());
             Console.WriteLine(livre1.Afficher());
-
+            Console.WriteLine(livre1.Auteur);
+            livre.Auteur = "sarcozie";
+            Console.WriteLine(livre.Auteur);
         }
     }
 }
